@@ -7,9 +7,9 @@ const target = "https://gist.githubusercontent.com/camperbot/5a022b72e96c4c9585c
 
 const colorsArr = ['BBADA0', "0B1D51", 'CB769E', '69995D', 'D2D7DF', '3AA7A3', 'A1869E', '000000', 'AFECE7', '81F499', '890620', 'B6465F', '8ACDEA','a81f61','e7d146','c89202','372f51','31f085'];
 const randomArrVal = (arr) => {
-  console.log(arr)
+  // console.log(arr)
   let randomNum = Math.floor(Math.random() * arr.length)
-  console.log(arr[randomNum])
+  // console.log(arr[randomNum])
   return arr[randomNum]
 }
 

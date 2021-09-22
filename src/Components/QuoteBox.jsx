@@ -3,7 +3,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faQuoteLeft } from "@fortawesome/free-solid-svg-icons";
 import { faTwitter } from "@fortawesome/free-brands-svg-icons";
 import Button from "react-bootstrap/Button";
-
 import "./QuoteBox.scss";
 
 const QuoteBox = ({ accentColor, handleNewQuote, currentQuote }) => {
