@@ -1,4 +1,4 @@
-This is about a **FreeCodeCamp** Front End Development Libraries challenge : [title](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)  
+This is about a **FreeCodeCamp** Front End Development Libraries challenge : [FreeCodeCamp Front end challenge](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)  
 The goal is to fulfill the below user stories and get all of the tests to pass  
 User Story #1: I can see a wrapper element with a corresponding id="quote-box".  
 
@@ -21,9 +21,9 @@ User Story #1: I can see a wrapper element with a corresponding id="quote-box".
 -User Story #10: I can tweet the current quote by clicking on the #tweet-quote a element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet the current quote.  
 
 -User Story #11: The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.  
-The result is as shown bellow  
-![alt text](https://github.com/fedilayoub/random-quote-machine/blob/master/preview.jpg)  
+The result is as shown bellow    
+![preview image](https://github.com/fedilayoub/random-quote-machine/blob/master/preview.jpg)  
   
-  Live demo : [title](https://fedilayoub.github.io/random-quote-machine/)
+  Live demo : [random quote machine](https://fedilayoub.github.io/random-quote-machine/)
 
  
